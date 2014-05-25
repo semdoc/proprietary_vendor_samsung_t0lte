@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/qmuxd:system/bin/qmuxd \
     $(LOCAL_PATH)/proprietary/system/bin/rild:system/bin/rild \
     $(LOCAL_PATH)/proprietary/system/bin/sec-ril:system/bin/sec-ril \
+    $(LOCAL_PATH)/proprietary/system/bin/sensorhubservice:system/bin/sensorhubservice \
     $(LOCAL_PATH)/proprietary/system/bin/smdexe:system/bin/smdexe
 
 PRODUCT_COPY_FILES += \
